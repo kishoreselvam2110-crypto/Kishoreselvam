@@ -1,4 +1,4 @@
-<h1 align="center"> Kishore</h1>
+<h1 align="center"> KISHORE S </h1>
 <h3 align="center">An Btech AI & DATA SCIENCE Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishoreselvam&label=Profile%20views&color=0e75b6&style=flat" alt="kishoreselvam" /> </p>
